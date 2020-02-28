@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.011005">
+<testcase classname="User Certification" name="Check the User status" time="0.011005">
+<system-out><![CDATA[Given that the user Vinod is given a task to clear Java certification exam..passed
+When Vinod got 60 marks in exam.............................................passed
+Then Vinod is known as Java certified.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
